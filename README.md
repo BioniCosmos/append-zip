@@ -10,13 +10,13 @@
 $ append-zip <action> <directory>
 ```
 
-- `<action>`: 要执行的操作（`box` 或 `unbox`）。
-- `<directory>`: 要压缩或提取的目录。
+- `<action>`：要执行的操作（`box` 或 `unbox`）。
+- `<directory>`：要压缩或提取的目录。
 
 ## Todo
 
-- [] 增加 VFS。
-- [] 使用宏扩展功能？
+- [ ] 增加 VFS。
+- [ ] 使用宏扩展功能？
 
 ## 许可证
 
